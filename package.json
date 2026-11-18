@@ -1,0 +1,1 @@
+{"name":"go-forge-rawtcp","private":true,"scripts":{"start":"node main.ts"},"type":"module"}
